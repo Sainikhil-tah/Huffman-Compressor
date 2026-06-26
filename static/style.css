@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.box {
+    border: 1px solid #ccc;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+input,
+select,
+button {
+    display: block;
+    margin: 10px 0;
+}
